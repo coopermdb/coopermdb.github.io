@@ -1,0 +1,29 @@
+body,
+html {
+  height: 100%;
+  display: grid;
+}
+
+.div1 {
+  margin: auto 10% auto 10%;
+  text-align: center
+}
+
+h1 {
+  color: azure;
+}
+
+p {
+  color: wheat;
+}
+
+.btn-primary {
+  background-color: beige;
+  color: black;
+  border: solid 1px orangered;
+  border-radius: 0px;
+}
+
+.btn-primary:hover {
+  background-color: firebrick;
+}
